@@ -1,0 +1,14 @@
+bio = {
+  'Nama\t\t': ': Yoff the wanderer',
+  'Kelas\t\t': ': Patang Puluh Patang',
+  'Tanggal Lahir\t': ': 666',
+  'No Hp\t\t': ': +62 889-6660-0001',
+  'Alamat\t\t': ': Belakang Masjid',
+  'Hobi\t\t':':',
+  "   1.": "Membaca Al-Qur'an",
+  "   2.": "Berjalan Menikmati Alam",
+  "   3.": "Main Game Cozy"
+}
+
+for i,j in bio.items():
+  print(i, j)
